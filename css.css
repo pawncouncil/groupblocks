@@ -1,0 +1,89 @@
+#background{
+    height: 615px;
+    width: 700px;
+    background-color: grey;
+    border: 5px solid black;
+    padding: 10px;
+
+}
+.red1{
+    margin: 10px;
+    height: 100px;
+    width: 295px;
+    background-color: red;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.red2{
+    margin: 10px;
+    height: 100px;
+    width: 295px;
+    background-color: red;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.blue{
+    margin: 10px;
+    height: 100px;
+    width: 645px;
+    background-color: blue;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.yellow1{
+    margin: 10px;
+    height: 100px;
+    width: 180px;
+    background-color: yellow;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.yellow2{
+    margin: 10px;
+    height: 100px;
+    width: 180px;
+    background-color: yellow;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.yellow3{
+    margin: 10px;
+    height: 100px;
+    width: 180px;
+    background-color: yellow;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.green{
+    margin: 10px;
+    height: 100px;
+    width: 645px;
+    background-color: green;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
+.purple1{
+    height: 70px;
+    width: 80px;
+    background-color: purple;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+
+}
+.purple2{
+    margin-left: 420px;
+    height: 70px;
+    width: 80px;
+    background-color: purple;
+    border: 5px solid black;
+    padding: 10px;
+    display: inline-block;
+}
